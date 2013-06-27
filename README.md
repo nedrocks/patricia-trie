@@ -9,3 +9,5 @@ The PATRICIA Trie is also known under the names [Radix and Crit Bit Tree](http:/
 **Download:** Binaries can be found on the project's [Google Code Page](http://code.google.com/p/patricia-trie).
 
 **NOTE:** This implementation has been contributed to [Apache Commons Collections](https://issues.apache.org/jira/browse/COLLECTIONS-225) and [Google Collections Library](http://groups.google.com/group/google-guice/browse_frm/thread/ffb2a3b3b9e39e79/23d2736911a14109).
+
+**NOTE:** Cloned in order to push up to central maven repository.
